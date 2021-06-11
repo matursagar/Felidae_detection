@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Animal_images_resized</folder>
+	<filename>C3.jpg</filename>
+	<path>D:\Docketrun AI course\Animal_detection\Animal_images_resized\C3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cheetah</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>6</ymin>
+			<xmax>385</xmax>
+			<ymax>600</ymax>
+		</bndbox>
+	</object>
+</annotation>

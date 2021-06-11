@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Animal_images_resized</folder>
+	<filename>T58.jpg</filename>
+	<path>D:\Docketrun AI course\Animal_detection\Animal_images_resized\T58.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tiger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>167</xmin>
+			<ymin>222</ymin>
+			<xmax>459</xmax>
+			<ymax>536</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tiger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>274</xmin>
+			<ymin>357</ymin>
+			<xmax>491</xmax>
+			<ymax>554</ymax>
+		</bndbox>
+	</object>
+</annotation>
